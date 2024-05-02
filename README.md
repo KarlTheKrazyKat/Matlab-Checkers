@@ -11,6 +11,7 @@ The unused board called **taken** logs the potential taken pieces by all moves.
 
 
 **RECOMMENDED IMPROVEMENTS**
+
   **movement**
   - By checking moves from every possible position you could eliminate invalid moves. Would reccomend to create a moves class and have a loop track the moves with updated boards for each iteration. note:this will be quite tedious.
   **graphics and user interface**
